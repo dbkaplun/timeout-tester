@@ -1,2 +1,2 @@
 # timeout-tester
-Sends an HTTP response that times out
+Responds to HTTP requests... after a while
