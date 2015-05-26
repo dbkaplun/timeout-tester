@@ -1,2 +1,2 @@
-# [timeout-tester](http://timeout-tester.secrettriangle.net/)
+# [timeout-tester](http://timeout-tester.dbkaplun.com/)
 Responds to HTTP requests... after a while
